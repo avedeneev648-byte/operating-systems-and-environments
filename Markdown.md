@@ -23,4 +23,4 @@ Markdown — язык разметки для форматирования те�
 ## Ссылки
 [Открыть GitHub][def]
 
-[def]: https://github.com/ы
+[def]: https://github.com/
