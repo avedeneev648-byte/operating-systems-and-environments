@@ -10,7 +10,6 @@
 - [Основы Bash](theory/OperatingSystemsandEnvironments/Bash.md)
 - [Работа с Git](theory/OperatingSystemsandEnvironments/Git.md)
 - [Text](https://github.com/avedeneev648-byte/operating-systems-and-environments/blob/main/Text.md)
-Сьешь ещё нем
  
 ### Курсор
  
