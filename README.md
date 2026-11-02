@@ -10,6 +10,9 @@
 - [Основы Bash](https://github.com/avedeneev648-byte/operating-systems-and-environments/blob/main/Bash.md)
 - [Работа с Git](https://github.com/avedeneev648-byte/operating-systems-and-environments/blob/main/Git.md)
 - [Text](https://github.com/avedeneev648-byte/operating-systems-and-environments/blob/main/Text.md)
+- [bashscripts](https://github.com/avedeneev648-byte/operating-systems-and-environments/blob/main/operatingsystemsandenviroments/bashscripts.md)
+-[THEORY](https://github.com/avedeneev648-byte/operating-systems-and-environments/blob/main/theory/THEORY.md)
+-[Task.mermaid](https://github.com/avedeneev648-byte/operating-systems-and-environments/blob/main/theory/task.mermaid.md)
 
 ## Цель проекта
 
