@@ -5,10 +5,10 @@
 
 ## Навигация
 
-- [Markdown](theory/OperatingSystemsandEnvironments/Markdown.md)
-- [Mermaid](theory/OperatingSystemsandEnvironments/Mermaid.md)
-- [Основы Bash](theory/OperatingSystemsandEnvironments/Bash.md)
-- [Работа с Git](theory/OperatingSystemsandEnvironments/Git.md)
+- [Markdown](https://github.com/avedeneev648-byte/operating-systems-and-environments/blob/main/Markdown.md)
+- [Mermaid](https://github.com/avedeneev648-byte/operating-systems-and-environments/blob/main/Mermaid.md)
+- [Основы Bash](https://github.com/avedeneev648-byte/operating-systems-and-environments/blob/main/Bash.md)
+- [Работа с Git](https://github.com/avedeneev648-byte/operating-systems-and-environments/blob/main/Git.md)
 - [Text](https://github.com/avedeneev648-byte/operating-systems-and-environments/blob/main/Text.md)
 
 ## Цель проекта
