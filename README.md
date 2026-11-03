@@ -14,6 +14,9 @@
 -[THEORY](https://github.com/avedeneev648-byte/operating-systems-and-environments/blob/main/theory/THEORY.md)
 -[Task.mermaid](https://github.com/avedeneev648-byte/operating-systems-and-environments/blob/main/theory/task.mermaid.md)
 
+## Ссылка на репозиторий преподавателя
+[Репозиторий](https://github.com/rurewa/imfua.git)
+
 ## Цель проекта
 
 Здесь собраны конспекты, практические задания
